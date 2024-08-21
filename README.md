@@ -20,7 +20,9 @@ https://127.0.0.1:8080/documentation
 
 ### Acesse o banco de dados da API, caso necessário
 
-Faça o download de algum editor gráfico de `.sqlite` da sua preferência. É muito comum usar o [DBBrowser](https://sqlitebrowser.org/).
+Abra e edite o arquivo `db.sqlite` do projeto da api adaspace com algum editor de sua preferência.
+
+É muito comum usar o [DBBrowser](https://sqlitebrowser.org/) para isso.
 
 ### Consuma a API
 
