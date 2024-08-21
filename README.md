@@ -1,6 +1,6 @@
 # Adaspace Demo
 
-Esse projeto consiste em um package executável, com provas de conceito do consumo da api adaspace, para estudo. 
+Esse projeto de estudo é um package executável, com provas de conceito do consumo da api [adaspace](https://github.com/academyifce/adaspace).
 
 ## Passo a Passo
 
