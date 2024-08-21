@@ -6,7 +6,7 @@ Esse projeto consiste em um package executável, com provas de conceito do consu
 
 ### Execute o servidor localmente
 
-1. Clone o [repositório do adaspace](https://github.com/mateusrodriguesxyz/adaspace)
+1. Clone o [repositório do adaspace](https://github.com/academyifce/adaspace)
 
 ```bash
 git clone https://github.com/mateusrodriguesxyz/adaspace.git
