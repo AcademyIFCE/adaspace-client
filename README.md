@@ -9,7 +9,7 @@ Esse projeto de estudo é um package executável, com provas de conceito do cons
 1. Clone o [repositório do adaspace](https://github.com/academyifce/adaspace)
 
 ```bash
-git clone https://github.com/mateusrodriguesxyz/adaspace.git
+git clone https://github.com/academyifce/adaspace.git
 ```
 
 2. Siga o README.md para executá-lo.
